@@ -1,6 +1,6 @@
 package com.ds.decorator;
 
-public class ProjectLogger implements Project {
+class ProjectLogger implements Project {
 
     Project project;
 

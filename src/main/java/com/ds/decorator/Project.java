@@ -1,5 +1,5 @@
 package com.ds.decorator;
 
-public interface Project {
+interface Project {
     void run();
 }
