@@ -2,7 +2,7 @@ package com.ds.memento;
 
 import java.time.LocalDate;
 
-public class Save {
+class Save {
 
     private final String version;
     private final LocalDate date;

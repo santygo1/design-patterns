@@ -1,6 +1,6 @@
 package com.ds.memento;
 
-public class Repository {
+class Repository {
     private Save save;
 
     public Save getSave() {
